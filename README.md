@@ -40,7 +40,7 @@ Astrid
 
 
 ### Conflicto 
-Conflicto: Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí como objetos. Por eso, la protagosista tiene como objetivo cambiar esta sitación y reestablecer la igualdad.
+Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí como objetos. Por eso, la protagosista tiene como objetivo cambiar esta sitación y reestablecer la igualdad.
 
 
 ### Productos
