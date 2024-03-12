@@ -1,5 +1,5 @@
 
-# Proyecto Storytelling (template): 
+# AstridProyecto): 
 ### my_storytelling
 Plantilla para crear el storytelling (CDNCAV-b)
 
@@ -9,7 +9,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Nicolai
+- :man: minombre
 - :woman: minombre
 - :woman: minombre 
 
