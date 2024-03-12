@@ -5,15 +5,12 @@ Plantilla para crear el storytelling (CDNCAV-b)
 
 Autores:  
 <!---
-Klaudia
-Valentine
-Nicolai
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: 
-- :woman: Astrid
-- :woman:  
+- :man: Nicolai
+- :woman: Valentine
+- :woman: Klaudia
 
 
 Proyecto (código): 
