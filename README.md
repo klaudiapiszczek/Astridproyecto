@@ -8,9 +8,9 @@ Autores:
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Nicolai
-- :woman: Valentine
 - :woman: Klaudia
+- :woman: Valentine
+- :man: Nicolai
 
 
 Proyecto (código): 
@@ -23,6 +23,7 @@ Tipo/Género:
 
 
 ## Resumen
+En el entorno distópico, Astrid, justiciera implacable, desafía el machismo. Su misión: aniquilar los peores y terminar con el patriarcado.
 
 
 ### Personaje
@@ -30,7 +31,7 @@ Tipo/Género:
 ![](img-nobody.png)
 
 Nombre: 
-
+Astrid
 
 ### Historia
 
@@ -39,7 +40,7 @@ Nombre:
 
 
 ### Conflicto 
-
+Conflicto: Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí como objetos. Por eso, la protagosista tiene como objetivo cambiar esta sitación y reestablecer la igualdad.
 
 
 ### Productos
