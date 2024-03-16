@@ -27,8 +27,7 @@ En el entorno distópico, Astrid, justiciera implacable, desafía el machismo. S
 
 
 ### Personaje
-
-(https://github.com/klaudiapiszczek/Astridproyecto/assets/163114049/5ef6cd08-d6bc-454e-a709-0e1be18b898e)
+![]([img-nobody.png](https://github.com/klaudiapiszczek/Astridproyecto/assets/163114049/5ef6cd08-d6bc-454e-a709-0e1be18b898e))
 
 Source: https://pl.pinterest.com/pin/4574037115585255/
 
