@@ -1,5 +1,5 @@
 
-# AstridProyecto): 
+# AstridProyecto: 
 ### my_storytelling
 Plantilla para crear el storytelling (CDNCAV-b)
 
@@ -28,16 +28,19 @@ En el entorno distópico, Astrid, justiciera implacable, desafía el machismo. S
 
 ### Personaje
 
-![](img-nobody.png)
-![](img-nobody.p![download](https://github.com/klaudiapiszczek/Astridproyecto/assets/163114049/5ef6cd08-d6bc-454e-a709-0e1be18b898e)
-ng)
+![download](https://github.com/klaudiapiszczek/Astridproyecto/assets/163114049/5ef6cd08-d6bc-454e-a709-0e1be18b898e)
+
 Source: https://pl.pinterest.com/pin/4574037115585255/
 
 Nombre: 
 Astrid
 
 ### Historia
+En el año 3080, el mundo se sumerge en la oscuridad de un pasado que parecía haber sido superado. El "feminismo", ese movimiento histórico que alguna vez desafió las estructuras de poder establecidas, ha sido derrotado y pasado al olvido de la historia. El patriarcado vuelve a proyectar su sombra sobre la sociedad, oprimiendo a las mujeres y relegándolas una vez más a un papel subordinado.
 
+En medio de este panorama desolador, una valiente joven llamada Astrid emerge como un rayo de esperanza. Criada en los márgenes de la sociedad, Astrid vio en persona la violencia y las convicciones que enfrentan las mujeres en este mundo distópico. Pero en lugar de aceptar pasivamente su destino, decide luchar contra el sistema establecido y provocar otra revolución.
+
+Con una determinación inquebrantable y voluntad de sacrificio, Astrid se convierte en una feroz revolucionaria dispuesta a superar cualquier obstáculo que se interponga en su camino. Armada con conocimientos tecnológicos y habilidades de combate, se infiltra en las redes de poder del patriarcado, socavando sus cimientos desde dentro.
 
 ### Contexto
 
