@@ -35,15 +35,12 @@ Source: https://pl.pinterest.com/pin/4574037115585255/
 Nombre: 
 Astrid
 
-### Historia
+### Historia & Contexto
 En el año 3080, el mundo se sumerge en la oscuridad de un pasado que parecía haber sido superado. El "feminismo", ese movimiento histórico que alguna vez desafió las estructuras de poder establecidas, ha sido derrotado y pasado al olvido de la historia. El patriarcado vuelve a proyectar su sombra sobre la sociedad, oprimiendo a las mujeres y relegándolas una vez más a un papel subordinado.
 
 En medio de este panorama desolador, una valiente joven llamada Astrid emerge como un rayo de esperanza. Criada en los márgenes de la sociedad, Astrid vio en persona la violencia y las convicciones que enfrentan las mujeres en este mundo distópico. Pero en lugar de aceptar pasivamente su destino, decide luchar contra el sistema establecido y provocar otra revolución.
 
-Con una determinación inquebrantable y voluntad de sacrificio, Astrid se convierte en una feroz revolucionaria dispuesta a superar cualquier obstáculo que se interponga en su camino. Armada con conocimientos tecnológicos y habilidades de combate, se infiltra en las redes de poder del patriarcado, socavando sus cimientos desde dentro.
-
-### Contexto
-
+Con una determinación inquebrantable y voluntad de sacrificio, Astrid se convierte en una feroz revolucionaria dispuesta a superar cualquier obstáculo que se interponga en su camino. Armada con conocimientos tecnológicos y habilidades de combate, se infiltra en las redes de poder del patriarcado, socavando sus cimientos desde dentro. Utilizando diversas tácticas, desmantela la propaganda, expone información comprometedora y obtiene datos confidenciales sobre las figuras más influyentes, dispuesta a enfrentarse directamente a ellos y eliminarlos.
 
 ### Conflicto 
 Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí como objetos. Por eso, la protagosista tiene como objetivo cambiar esta sitación y reestablecer la igualdad.
