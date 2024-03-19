@@ -48,7 +48,7 @@ Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1479677 
 
 
 - Banner/Teaser:  (enlace) 
