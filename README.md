@@ -55,7 +55,7 @@ Hay una desigualdad muy fuerte en la sociedad y las mujeres son percebidas casí
 - Banner/Teaser: https://cloud.protopie.io/p/a382416dcfb1492f57894752
 
 
-- Storytelling: https://arcweave.com/app/project/gk6Qb3v0dK
+- Storytelling: https://arcweave.com/app/project/gk6Qb3v0dK/play
 
 
 
